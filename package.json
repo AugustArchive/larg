@@ -12,5 +12,8 @@
     "type": "git",
     "url": "https://www.github.com/PassTheWessel/larg"
   },
+  "scripts": {
+    "test": "node test.js"
+  },
   "keywords": [ "argument", "args", "arg", "argv", "parse", "cli", "command-line", "parser", "command", "lightweight" ]
 }
